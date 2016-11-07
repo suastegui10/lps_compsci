@@ -1,0 +1,6 @@
+print("How much do the nachos cost?")
+nacho_price = int(raw_input())
+print("How much money do you have in your pocket?")
+cash = int(raw_input())
+
+
